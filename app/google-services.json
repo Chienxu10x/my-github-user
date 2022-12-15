@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "557955222116",
+    "firebase_url": "https://read-book-63b6d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "read-book-63b6d",
+    "storage_bucket": "read-book-63b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557955222116:android:40a11e6da247beba5ead71",
+        "android_client_info": {
+          "package_name": "com.example.comicbook2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557955222116-a3cfvgglnetg1bvs8g1lfa8tcmvcvon7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0i41RJS8fiHr8Pv5LXa66gP3K2kf0yE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557955222116-a3cfvgglnetg1bvs8g1lfa8tcmvcvon7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557955222116:android:726debd8180d67c05ead71",
+        "android_client_info": {
+          "package_name": "com.pby.androidfirebasecomicreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557955222116-a3cfvgglnetg1bvs8g1lfa8tcmvcvon7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0i41RJS8fiHr8Pv5LXa66gP3K2kf0yE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557955222116-a3cfvgglnetg1bvs8g1lfa8tcmvcvon7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
